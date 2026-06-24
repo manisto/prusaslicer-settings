@@ -3,3 +3,5 @@ cache/
 vendor/Prusa*
 PrusaSlicer.ini
 PrusaSlicer.ini.bak
+*.stl
+*.png

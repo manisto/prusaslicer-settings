@@ -5,3 +5,4 @@ PrusaSlicer.ini
 PrusaSlicer.ini.bak
 *.stl
 *.png
+/workflows.json
